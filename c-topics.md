@@ -1,6 +1,6 @@
 # C Topics
 ## Argument Evaluation Order
-They order in which all he passed arguments are evaluated.  
+They order in which all the passed arguments are evaluated.  
 For example:
 
 	f(a(), b(), c());
@@ -49,7 +49,7 @@ In the cases of `struct`, `union` and `enum`, an instance of each type can only 
 ## Operator Precedence/Associativity
 ## Pointer Arithmetics
 ## Post-/Pre-Increment/Decrement
-## Prefix Suffix (L,u,U)
+## Literal Prefix/Suffix (L,u,U)
 ## Preprocessor Directives
 ## Program Counter/Instruction Pointer
 ## Scopes
@@ -57,12 +57,12 @@ In the cases of `struct`, `union` and `enum`, an instance of each type can only 
 ## Sequence Point/Side Effects
 ### Sources:
  * https://en.wikibooks.org/wiki/C_Programming/Side_effects_and_sequence_points
-## Static/Dynamic linking/libraries
+## Static/Dynamic Linking/Libraries
 ## Storage Classes (`extern`, `static`, `volatile`)
 ## Ternary Conditional Operator
-## Tool chain
+## Tool Chain
 ## Two's/One's Complement
 ## Type Promotion
 ## Undefined Behavior
+## Value Categories (lvalue, rvalue)
 ## Variable-Length Array (VLA)
-## lvalue, rvalue

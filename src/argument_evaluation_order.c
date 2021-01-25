@@ -4,25 +4,25 @@
  * ARGUMENT EVALUATION ORDER *
  * * * * * * * * * * * * * * */
 
-int a (void)
+int a(void)
 {
 	puts("a");
 	return 1;
 }
 
-int b (void)
+int b(void)
 {
 	puts("b");
 	return 2;
 }
 
-int c (void)
+int c(void)
 {
 	puts("c");
 	return 3;
 }
 
-void empty (int a, int b, int c) {}
+void empty(int a, int b, int c) {}
 
 int main(void)
 {
