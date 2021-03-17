@@ -30,8 +30,11 @@ But the evaluation could also go the other way and start with `a`.
 ## Entry Points
 ## Escape Sequence
 ## Floating Point Arithmetics
-## Function Prototypes
+### Sources:
+ * https://en.wikipedia.org/wiki/IEEE_754
+## Function Prototypes/Signatures
 ## Hosted/Freestanding Environment
+## Identifier
 ## Implicit/Explicit Type Casting
 ## Incomplete Types
 Those are types that aren't fully defined or only declared.  
@@ -43,6 +46,7 @@ For example:
 In the cases of `struct`, `union` and `enum`, an instance of each type can only be created with a pointer.  
 ### Sources:
  * https://docs.microsoft.com/en-us/cpp/c-language/incomplete-types
+## Keywords
 ## Lexical Scope (Nested Functions)
 ## Macros (`define`)
 ## Null-Terminated String
